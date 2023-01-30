@@ -18,8 +18,6 @@ ScriptsOnlyBuild:
     - TMPro.TMP_Settings
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
-    Unity.TextMeshPro.dll:
-    - TMPro.TMP_FontAsset
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -802,4 +800,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/Level01.unity
   - Assets/Scenes/EndScreen.unity
-  playerPath: C:/Users/zacsz/OneDrive/Desktop/Seek-and-Flee/Build
+  playerPath: C:/Users/zacsz/OneDrive/Desktop/Seek-and-Flee/Seek and Flee Build
